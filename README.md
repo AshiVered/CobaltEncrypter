@@ -20,14 +20,9 @@ Every USB drive has a unique serial number assigned to it. The software uses thi
 - Python 3.x
 - wxPython
 
-## Installation
-```sh
-pip install -r requirements.txt
-```
-
 ## Usage
 1. Run the application.
 2. Select a file to encrypt or decrypt.
 3. Choose a USB drive.
 4. Click `Encrypt` to secure the file or `Decrypt` to restore it.
-```
+
